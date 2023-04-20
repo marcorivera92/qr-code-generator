@@ -32,9 +32,4 @@
   .App {
     gap: 8rem;
   }
-
-  .main {
-    display: flex;
-    flex-direction: row-reverse;
-  }
 }
